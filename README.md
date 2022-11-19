@@ -6,8 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BryanC975&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanC975&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
-
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -15,10 +14,11 @@
   
   <br>
 
-<div> 
-
+<div align="center"> 
   <a href="https://www.linkedin.com/in/bryan-caguana-chango-64aa35210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clan8hqnr00210fjnh1vq5ofi/stats?cursusId=21&coalitionId=65" alt="bcaguana's 42 stats" /></a>
+  
   ![Snake animation](https://github.com/BryanC975/BryanC975/blob/output/github-contribution-grid-snake.svg)
  
 </div>
