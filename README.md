@@ -1,7 +1,9 @@
 <h3 align="center">🌱 Estudiando Administracion de sistemas.</h3>
 <h3 align="center">🚀 Alumno de 42 Madrid</h3>
 <div align="center">
-<img src="https://badge42.vercel.app/api/v2/clan8hqnr00210fjnh1vq5ofi/stats?cursusId=21&coalitionId=65" alt="bcaguana's 42 stats" />
+  
+[![bcaguana's 42 stats](https://badge42.vercel.app/api/v2/clan8hqnr00210fjnh1vq5ofi/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
+  
 </div>
 
 ---
