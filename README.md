@@ -1,10 +1,5 @@
 <h3 align="center">🌱 Estudiando Administracion de sistemas.</h3>
 <h3 align="center">🚀 Alumno de 42 Madrid</h3>
-<div align="center">
-  
-[![bcaguana's 42 stats](https://badge42.vercel.app/api/v2/clan8hqnr00210fjnh1vq5ofi/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
-  
-</div>
 
 ---
 
@@ -19,7 +14,7 @@
 **👷 Skill list**
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="35" width="45" src="https://camo.githubusercontent.com/1d025db03128f09cd27a0cd75add59a018ee1941906e692b54651359e6f466c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d413942394342">
+  <img align="center" alt="Rafa-Csharp" height="35" width="50" src="https://camo.githubusercontent.com/1d025db03128f09cd27a0cd75add59a018ee1941906e692b54651359e6f466c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d413942394342">
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/bryan-caguana-chango-64aa35210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
