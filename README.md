@@ -1,4 +1,4 @@
-# position :center; <img src="https://media3.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=790b7611ptsi7vpn6bis6k5evi8m58w4ags2ibn0i8hy1qyz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"/>
+# <img src="https://media3.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=790b7611ptsi7vpn6bis6k5evi8m58w4ags2ibn0i8hy1qyz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"/>
 
 ### Tecnologías
 <div id="badges">
